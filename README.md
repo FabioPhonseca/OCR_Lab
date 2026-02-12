@@ -4,7 +4,7 @@
 <img width="481,6" height="365,6" alt="image" src="https://github.com/user-attachments/assets/d1bf6aa9-3dcc-4dd1-9c77-2898eff38a9b" />
 <img width="481,6" height="365,6" alt="image" src="https://github.com/user-attachments/assets/6747126c-337f-4fb4-8abf-d88619b95b86" />
 <img width="437" height="851" alt="image" src="https://github.com/user-attachments/assets/7226d652-300c-4d4f-9acb-ed6ff0021f69" />
-
+<img width="380" height="336" alt="image" src="https://github.com/user-attachments/assets/5288a402-1a9e-4672-8f18-9ba4d2a8c455" />
 
 
 Ferramenta desktop para **anotar regiões (retângulos) em páginas de PDF ou imagens**, testar **pré-processamentos** e executar **OCR com Tesseract** de forma interativa.  
