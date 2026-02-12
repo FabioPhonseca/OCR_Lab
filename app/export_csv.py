@@ -30,7 +30,7 @@ def export_csv_file(
         img_w, img_h = int(image_w_px), int(image_h_px)
         rects = stored_norm.get(0, [])
         for sr in rects:
-            rows.append(_row_for_rect(base, page_index + 1, sr, img_w, img_h, profile_name))
+            rows.append(_row_for_rect(base, 0, sr, img_w, img_h, profile_name))
     else:
         if pdf_doc is None:
             raise RuntimeError("PDF doc não carregado.")
