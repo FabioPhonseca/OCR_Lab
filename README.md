@@ -1,0 +1,2 @@
+# OCR_Lab
+OCR_Lab é uma ferramenta desktop para marcar áreas em PDFs/imagens, testar pré-processamentos e OCR com Tesseract, salvar perfis e exportar coordenadas reprodutíveis para automação em Python.  English OCR_Lab is a desktop tool to annotate regions in PDFs/images, experiment with preprocessing and Tesseract OCR, save named profiles, and export reproducible coordinates for Python automation.
